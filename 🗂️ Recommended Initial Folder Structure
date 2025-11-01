@@ -1,0 +1,17 @@
+telster-public/
+│
+├── /docs
+│   ├── api-reference.md
+│   ├── sdk-guide.md
+│   └── changelog.md
+│
+├── /src
+│   ├── api/
+│   ├── components/
+│   └── utils/
+│
+├── package.json
+├── tsconfig.json
+├── README.md
+├── .gitignore
+└── LICENSE
